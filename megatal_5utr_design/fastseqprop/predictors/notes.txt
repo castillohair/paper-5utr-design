@@ -1,0 +1,2 @@
+- model_optimus5p_25.h5: Optimus 5' (25) as described in the manuscript (Figure 3).
+- retrained_main_MRL_model.hdf5: Optimus 5' from Sample et al. 2019, trained on the 50 nt defined-end random MPRA (Figure 2 of Sample 2019) plus measured MRL of 5'UTRs designed with a genetic algorithm, which included large stretches of Us and underperformed (Figure 3 of Sample 2019).
