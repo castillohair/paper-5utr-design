@@ -1,5 +1,5 @@
 # Optimizing 5’UTRs for mRNA-delivered gene editing using deep learning
-This repository contains data analysis and sequence design code in the publication "Optimizing 5’UTRs for mRNA-delivered gene editing using deep learning", including code to generate all Figure panels. Most of the code is in Jupyter notebooks written in Python 3.
+This repository contains data analysis and sequence design code in the publication "Optimizing 5’UTRs for mRNA-delivered gene editing using deep learning", including code to generate all Figure panels.
 
 ## Contents
 
@@ -12,7 +12,7 @@ This repository contains data analysis and sequence design code in the publicati
 - `polysome_profiling_sample2019`: Polysome profiling data acquired in Sample, et al. Nat. Biotech 2019. must be downloaded and placed here for the code in this repo to work. See README file inside.
 
 ## Requirements
-With the exception of the sequence design code (`megatal_5utr_design`), the following package versions were used:
+All code was written in Python 3. With the exception of the sequence design code (`megatal_5utr_design`), the following package versions were used:
 - `matplotlib` 3.5.1
 - `numpy` 1.22.1
 - `pandas` 1.4.3
@@ -27,3 +27,8 @@ For sequence design, the following are required:
 - [`DEN`](https://github.com/johli/genesis/) 0.1
 - `keras` 2.2
 - `tensorflow` 1.15
+
+All standard packages can be installed with `pip` or `conda`. For `isolearn`, `Fast SeqProp`, and `DEN`, follow the instructions in the respective repos.
+
+## Usage
+Most of the code is in Jupyter notebooks, each of which performs a specific analysis or design task.
