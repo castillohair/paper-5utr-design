@@ -31,4 +31,4 @@ For sequence design, the following are required:
 All standard packages can be installed with `pip` or `conda`. For `isolearn`, `Fast SeqProp`, and `DEN`, follow the instructions in the respective repos.
 
 ## Usage
-Most of the code is in Jupyter notebooks, each of which performs a specific analysis or design task.
+Most of the analysis code is in Jupyter notebooks, each of which can be opened and run to reproduce a specific analysis or design task.
