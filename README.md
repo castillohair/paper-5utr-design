@@ -1,4 +1,5 @@
-# Code for "Optimizing 5’UTRs for mRNA-delivered gene editing using deep learning"
+# Optimizing 5’UTRs for mRNA-delivered gene editing using deep learning
+This repository contains data analysis and sequence design code in the publication "Optimizing 5’UTRs for mRNA-delivered gene editing using deep learning", including code to generate all Figure panels. Most of the code is in Jupyter notebooks written in Python 3.
 
 ## Contents
 
@@ -6,12 +7,12 @@
 - `analysis_random_end`: Code for analysis of the random-end MPRA libraries from Figure 3 and related Supplementary Figures.
 - `megatal_5utr_design`: Notebooks and scripts for 5'UTR design, used in megaTAL gene editing assays.
 - `megatal_gene_editing_analysis`: Code for analysis of megaTAL gene editing results
-- `models_sample2019`: Deep learning models from Sample, et al. Nat. Biotech 2019. must be downloaded and placed here for the code in this repo to work.
-- `polysome_profiling_data`: Polysome profiling data acquired in this study must be placed here for the code in this repo to work.
-- `polysome_profiling_sample2019`: Polysome profiling data acquired in Sample, et al. Nat. Biotech 2019. must be downloaded and placed here for the code in this repo to work.
+- `models_sample2019`: Deep learning models from Sample, et al. Nat. Biotech 2019. must be downloaded and placed here for the code in this repo to work. See README file inside.
+- `polysome_profiling_data`: Polysome profiling data acquired in this study must be placed here for the code in this repo to work. See README file inside.
+- `polysome_profiling_sample2019`: Polysome profiling data acquired in Sample, et al. Nat. Biotech 2019. must be downloaded and placed here for the code in this repo to work. See README file inside.
 
 ## Requirements
-All code is written in Python 3. With the exception of the sequence design code (`megatal_5utr_design`), the following package versions were used:
+With the exception of the sequence design code (`megatal_5utr_design`), the following package versions were used:
 - `matplotlib` 3.5.1
 - `numpy` 1.22.1
 - `pandas` 1.4.3
