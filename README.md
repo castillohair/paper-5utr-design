@@ -7,6 +7,7 @@ This repository contains data analysis and sequence design code in the publicati
 - `analysis_random_end`: Code for analysis of the random-end MPRA libraries from Figure 3 and related Supplementary Figures.
 - `megatal_5utr_design`: Notebooks and scripts for 5'UTR design, used in megaTAL gene editing assays.
 - `megatal_gene_editing_analysis`: Code for analysis of megaTAL gene editing results
+- `megatal_mrl_stability`: Data and code for analysis of megaTAL direct MRL and stability measurements.
 - `models_sample2019`: Deep learning models from Sample, et al. Nat. Biotech 2019. must be downloaded and placed here for the code in this repo to work. See README file inside.
 - `polysome_profiling_data`: Polysome profiling data acquired in this study must be placed here for the code in this repo to work. See README file inside.
 - `polysome_profiling_sample2019`: Polysome profiling data acquired in Sample, et al. Nat. Biotech 2019. must be downloaded and placed here for the code in this repo to work. See README file inside.
