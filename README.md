@@ -24,7 +24,7 @@ This repository contains data analysis and sequence design code from [Castillo-H
 
 - [`models_sample2019`](models_sample2019): Deep learning models from [Sample, et al. Nat. Biotech 2019](https://doi.org/10.1038/s41587-019-0164-5) must be downloaded and placed here for the code in this repo to work. See README file inside.
 - [`polysome_profiling_data`](polysome_profiling_data): Polysome profiling data collected in this study must be placed here for the code in this repo to work. See README file inside.
-- [`polysome_profiling_sample2019`](`polysome_profiling_sample2019`): Polysome profiling data collected in [Sample, et al. Nat. Biotech 2019](https://doi.org/10.1038/s41587-019-0164-5) must be downloaded and placed here for the code in this repo to work. See README file inside.
+- [`polysome_profiling_sample2019`](polysome_profiling_sample2019): Polysome profiling data collected in [Sample, et al. Nat. Biotech 2019](https://doi.org/10.1038/s41587-019-0164-5) must be downloaded and placed here for the code in this repo to work. See README file inside.
 
 ## Requirements
 All code was written in Python 3. With the exception of the sequence design code (`megatal_5utr_design`), the following package versions were used:
