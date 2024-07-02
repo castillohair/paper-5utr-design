@@ -2,7 +2,7 @@
 
 ![plot](./readme_fig.png)
 
-This repository contains data analysis and sequence design code from [Castillo-Hair et al. *Optimizing 5’UTRs for mRNA-delivered gene editing using deep learning*](https://www.biorxiv.org/content/10.1101/2023.06.15.545194v1.abstract).
+This repository contains data analysis and sequence design code from [Castillo-Hair et al. *Optimizing 5’UTRs for mRNA-delivered gene editing using deep learning.* Nat. Commun. 2024](https://www.nature.com/articles/s41467-024-49508-2).
 
 ## Contents
 
